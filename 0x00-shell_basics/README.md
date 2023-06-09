@@ -1,1 +1,1 @@
-My second file
+This is a shell project
