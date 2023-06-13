@@ -1,1 +1,1 @@
-This ia shell,I/O redirections and filters
+This is a shell project
