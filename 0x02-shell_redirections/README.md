@@ -1,1 +1,1 @@
-This is a shell project
+This is a 0x02 shell project
